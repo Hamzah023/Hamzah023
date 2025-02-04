@@ -4,7 +4,7 @@
   
 🌱 My stack is ASP.NET Core, Flask, Spring Boot, Express.js, Selenium, React, Beautiful Soup, Pandas, Numpy, Node.js, Express.js and SQL.
 
-💞️ I have two years of work experience in startups in Health Tech, FinTech, Steel Tech, etc.
+💞️ I have two years of work experience in startups in Health Tech, FinTech, Steel, AI etc.
 
 📫 Reach out to me on LinkedIn: linkedin.com/in/hamzahimrann/ 
 
