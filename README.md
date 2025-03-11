@@ -1,6 +1,6 @@
 👋 Hi, I’m @Hamzah023, an honours Co-op Computer Science student at the University of Guelph, minoring in Project Management.
 
-👀 I build software for startups in Toronto. I am trying to connect with venture capitalists, angel investors, and anyone interested in our projects.
+👀 I build software for startups in Toronto. I like to connect with angel investors, builders and founders.
   
 🌱 My stack is ASP.NET Core, Springboot, Node.js, Express.js, Typescript, React, Flask, Selenium, Puppeteer BeautifulSoup, Pandas, Numpy, Google Cloud/Firebase and PostgreSQL.
 
