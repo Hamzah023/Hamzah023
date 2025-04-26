@@ -2,7 +2,7 @@
 
 👀 I build software for startups in Toronto. I like to connect with angel investors, builders and founders.
   
-🌱 My stack is ASP.NET Core, Springboot, C, Node.js, Express.js, Typescript, React, Flask, Selenium, Puppeteer, BeautifulSoup, Pandas, Numpy, Google Cloud/Firebase and PostgreSQL.
+🌱 My stack is ASP.NET Core, Springboot, C, Node.js, Express.js, Typescript, React, Flask, FastAPI, Uvicorn, Selenium, Puppeteer, BeautifulSoup, Pandas, Numpy, Google Cloud/Firebase and PostgreSQL.
 
 💞️ I have two years of work experience in Health Tech, FinTech, Steel, and AI startups.
 
