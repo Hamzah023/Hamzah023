@@ -4,7 +4,7 @@
   
 🌱 My stack is ASP.NET Core, Springboot, C, Node.js, Express.js, Typescript, React, Flask, FastAPI, Uvicorn, Selenium, Puppeteer, BeautifulSoup, Pandas, Numpy, Google Cloud/Firebase and PostgreSQL.
 
-💞️ I have two years of work experience in Health Tech, FinTech, Steel, and AI startups.
+💞️ I have two years of work experience in Health Tech, FinTech, InsureTech, and AI startups.
 
 ⚡ Fun fact: The Social Network is my favourite movie. I'm actually listening to the soundtrack while writing this sentence.
 
