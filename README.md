@@ -1,8 +1,8 @@
- Hi, I’m @Hamzah023, an honours Co-op Computer Science student at the University of Guelph, minoring in Project Management.
+ Hi, I’m @Hamzah023, an Honours Co-op Computer Science student at the University of Guelph, with a minor in Project Management.
 
-I build software for startups in Toronto. I like to connect with angel investors, builders and founders.
+I build software for startups in Toronto. I enjoy connecting with angel investors, builders, and founders.
   
-I have two years of work experience in various companies and startups.
+I have two years of work experience in engineering production-level systems at various startups and F500 companies around the world.
 
 ⚡ Fun fact: The Social Network is my favourite movie. I'm actually listening to the soundtrack while writing this sentence.
 
